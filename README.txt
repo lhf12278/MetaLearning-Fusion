@@ -2,7 +2,7 @@
 
 This package contains the source code which is associated with the following paper:
 
-Huafeng Li, Yueliang Cen, Yu Liu, Xun Chen, Zhengtao Yu, "Different Input Resolutions and Arbitrary Output Resolution: A Meta-Learning Based Deep Framework for Infrared and Visible Image Fusion", submitted to IEEE Transactions on Image Processing, 2020. (under review, second round)
+Huafeng Li, Yueliang Cen, Yu Liu, Xun Chen, Zhengtao Yu, Different Input Resolutions and Arbitrary Output Resolution: A Meta Learning-Based Deep Framework for Infrared and Visible Image Fusion[J]. IEEE Transactions on Image Processing, 2021, 30: 4070-4083.
 
 Edited by Yueliang Cen and Yu Liu.   
 
